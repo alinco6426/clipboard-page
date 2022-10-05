@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@500&display=swap');
+body{
+    background-image: url(bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: "Bai Jamjuree";
+}
+.cover{
+    display: flex;
+}
+header{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    
+}
+header p{
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+header h1{
+    padding-top: 30px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+}
+.green{
+    background-color: hsl(171, 66%, 44%);
+}
+.blue{
+    background-color: hsl(233, 100%, 69%);
+}
+h4 h5 h3 h1{
+    color: hsl(210, 10%, 33%);
+}
+p{
+    color:  hsl(201, 11%, 66%);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+section{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.monitor{
+    margin-top: 100px;
+    margin-left: 120px;
+}
+.clip{
+    text-align: center;
+    margin-top: 60px;
+}
+.clip p{
+    margin-bottom: 100px;
+}
+.super{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.ask{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.last{
+    text-align: center;
+}
+.describe{
+    display: flex;
+    justify-content: space-around;
+    background-color:  hsl(202, 49%, 92%);
+    margin-top: 90px;
+    padding: 40px;
+    margin-bottom: 40px;
+}
+.small{
+    width: 70px;
+    height: 70px;
+}
+*{
+    margin: 0;
+}
+.social{
+    padding-left: 150px;
+}
+.attribution { 
+    font-size: x-large; text-align: center;
+    color: hsl(228, 45%, 44%); 
+}
+img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+button:hover{
+    background-color: ;
+}
